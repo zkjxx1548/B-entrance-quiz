@@ -4,7 +4,6 @@ import com.thoughtworks.capability.gtb.entrancequiz.domian.Student;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.stream.Stream;
 
 public class Data {
     private static List<Student> students;
