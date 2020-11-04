@@ -2,6 +2,7 @@ package com.thoughtworks.capability.gtb.entrancequiz.domian;
 
 import java.util.Objects;
 
+//TODO GTB-知识点: - 建议了解、使用 lombok
 public class Student {
     private int id;
     private String name;
